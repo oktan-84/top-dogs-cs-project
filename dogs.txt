@@ -2,3 +2,9 @@ larry
 gertrude
 amy
 aiden
+lassy
+mike
+fido
+bertie
+rover
+patch
