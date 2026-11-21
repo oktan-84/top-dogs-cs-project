@@ -4,14 +4,6 @@ import random as r
 
 card = str
 
-def write_to_player():
-    with open("player.txt", "w") as pf:
-        pf.write()
-
-def write_to_computer():
-    with open("computer.txt", "w") as cf:
-        cf.write()
-
 def game():
     while True:
         print()
